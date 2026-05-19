@@ -78,8 +78,8 @@ Colab's IPython kernel runs a permanent `asyncio` event loop. Playwright's synch
 
 Duunitori sits behind Cloudflare bot detection. It checks `navigator.webdriver`, plugin fingerprints, and timing patterns. Even a properly launched headless Chromium is detected and served a JS challenge page with no job cards. Alternatives that work:
 
-- **Google Custom Search API** — requires a free API key + Search Engine ID from Google Cloud Console. See Cell 4 comments.
-- **Anthropic API with web_search tool** — requires an Anthropic API key from [console.anthropic.com](https://console.anthropic.com). See Cell 4 comments.
+- **Anthropic API with web_search tool** — requires an Anthropic API key from [console.anthropic.com](https://console.anthropic.com). NOT DONE!!!
+- **Google search** — TEST. NOT DONE!!!
 
 ---
 
