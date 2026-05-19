@@ -2,9 +2,8 @@
 
 A Google Colab notebook that scrapes architecture and BIM job listings from Finnish job boards and exports them to Excel.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/finland_job_scraper_v5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArchiColab/JobHunt_2026_Architect_Finland/blob/main/finland_job_scraper_2026.ipynb)
 
-> **Replace** `YOUR_USERNAME` and `YOUR_REPO_NAME` in the badge link above with your actual GitHub username and repository name.
 
 ---
 
